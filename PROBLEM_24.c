@@ -1,4 +1,4 @@
-//24
+
 #include <stdio.h>
 
 void bubbleSort(int arr[], int n)
